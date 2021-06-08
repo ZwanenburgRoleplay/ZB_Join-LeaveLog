@@ -15,7 +15,7 @@ Rename ZB_Join-leaveLog-main with ZB_Join-leaveLog
 **Job: **' ..lavoro..'
 **Job Grade: **' ..grado..'**'
 
-#Disconnected from the server:
+# Disconnected from the server:
 **Uitlog reden:** ' .. reason .. '
 **Ingame Naam:** ' ..nome.. '
 **Steam Naam:** ' ..steam.. '\n' .._playerID.. '\n ' .._steamID.. ' ' .._steamURL.. '\n' .._discordID.. '
