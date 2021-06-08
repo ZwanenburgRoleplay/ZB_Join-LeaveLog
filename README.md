@@ -1,9 +1,27 @@
-# esx_randylogs
+# ZB_Join-leaveLog
 
 **Installation:**
-Add this to your server.cfg: start esx_randylogs
+Add this to your server.cfg: start ZB_Join-leaveLog
 
-Rename esx_randylogs-man with esx_randylogs
+Rename ZB_Join-leaveLog-main with ZB_Join-leaveLog
 
+Connected to the server:
+**Ingame Naam:** ' ..nome.. '
+**Steam Naam:** ' ..steam.. '\n' .._playerID.. '\n ' .._steamID.. ' ' .._steamURL.. '\n' .._discordID.. '
+**Ping:** ' ..ping.. '
+**Money: **' ..soldi..'
+**Money Bank: **' ..soldi2..'
+**Black Money: **' ..soldi3..'
+**Job: **' ..lavoro..'
+**Job Grade: **' ..grado..'**'
 
-DISCORD: https://discord.gg/gvprUd3Ryh
+Disconnected from the server:
+\n\nUitlog reden: ' .. reason .. '
+\n\nIngame Naam: ' ..nome.. '
+Steam Naam: ' ..steam.. '\n' .._playerID.. '\n ' .._steamID.. ' ' .._steamURL.. '\n' .._discordID.. '
+Ping:   ' ..ping.. '
+Money:  ' ..soldi..'
+Money Bank: ' ..soldi2..'
+Black Money: ' ..soldi3..'
+Job: ' ..lavoro..'
+Job Grade: ' ..grado..''
