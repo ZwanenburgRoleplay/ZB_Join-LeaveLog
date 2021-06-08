@@ -1,4 +1,4 @@
-# ZB_Join-leaveLog
+# ZB_Join-leaveLog BY DarioD#3601
 
 **Installation:**
 Add this to your server.cfg: start ZB_Join-leaveLog
