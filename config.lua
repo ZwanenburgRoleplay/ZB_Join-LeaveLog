@@ -1,4 +1,4 @@
--- ESX_RANDYLOG BY RANDYORANDY#0001
+-- ZB_Join-LeaveLog BY DarioD#3601
 
 Config = {}
 
